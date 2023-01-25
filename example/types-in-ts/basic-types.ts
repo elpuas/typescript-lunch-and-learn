@@ -15,4 +15,3 @@ let list: number[] = [1, 2, 3];
 
 // Tuple
 let x: [string, number];
-

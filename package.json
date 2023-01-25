@@ -1,4 +1,12 @@
 {
+  "name": "typescript-4.9.4",
+  "version": "1.0.0",
+  "description": "typescript-4.9.4",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build" : "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "devDependencies": {
     "typescript": "^4.9.4"
   }

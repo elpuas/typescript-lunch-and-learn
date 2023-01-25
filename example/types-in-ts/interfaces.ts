@@ -25,7 +25,6 @@ interface Add {
     (x: number, y: number): number;
 }
 
-function Add(x: number, y: number): number {
+function add(x: number, y: number): number {
     return x + y;
 }
-
